@@ -1,1 +1,59 @@
 # 每周总结可以写在这里
+
+## 实体
+
+```javascript
+	' ': '&nbsp;',
+    '!': '&excl;',
+    '"': '&quot;',
+    '#': '&num;',
+    '$': '&dollar;',
+    '%': '&percnt;',
+    '&': '&amp;',
+    '\'': '&apos;',
+    '(': '&lpar;',
+    ')': '&rpar;',
+    '*': '&ast;',
+    '+': '&plus;',
+    ',': '&comma;',
+    '-': '&hyphen;',
+    '.': '&period;',
+    '/': '&sol;',
+    ':': '&colon;',
+    ';': '&semi;',
+    '<': '&lt;',
+    '=': '&equals;',
+    '>': '&gt;',
+    '?': '&quest;',
+    '@': '&commat;',
+    '[': '&lsqb;',
+    '\\': '&bsol;',
+    ']': '&rsqb;',
+    '^': '&circ;',
+    '_': '&lowbar;',
+    '`': '&grave;',
+    '{': '&lcub;',
+    '|': '&verbar;',
+    '}': '&rcub;',
+    '~': '&tilde;'
+
+```
+
+## ECMA 中找到所有的类型（Type） 
+
+```javascript
+NUll
+Boolean
+String
+Symbol
+Number
+Object
+List and Record Specification
+ Set and Relation Specification
+ Completion Record Specification
+ Reference Specification
+ Property Descriptor Specification
+ Lexical Environment 
+ Environment Record Specification
+```
+
